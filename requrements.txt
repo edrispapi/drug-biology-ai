@@ -1,1 +1,8 @@
-pip install torch transformers biopython rdkit-pypi deepchem fastapi uvicorn pydantic
+torch 
+transformers 
+biopython 
+rdkit-pypi 
+deepchem 
+fastapi 
+uvicorn 
+pydantic
